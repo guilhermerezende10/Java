@@ -3,7 +3,7 @@ package ex1705;
 import java.util.Scanner;
 
 
-public class ex001 {
+public class ex018 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Digite um número para ver sua tabuada: ");
